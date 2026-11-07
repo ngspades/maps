@@ -33,6 +33,24 @@ the folder (`Name_2`, `Name_1234`), so no map replaces another. A map of
 the map search is only added when no map here has the same blocks, whatever
 its name or colours, so the same map never comes twice.
 
+## The 1024 x 1024 maps
+
+Most maps are 512 x 512, the size Ace of Spades always had. Shoot and Destroy
+also plays maps twice as wide (protocol 1.0 only: a 0.75 server cannot send
+one), and two of ours are here:
+
+- `Mountain_River_1024`: mountains in the west and a river that runs east to
+  its delta and a lake, made by Sean Barrett's ("nothings") public domain
+  aosmap generator (forest_river, without its trees), with the game's grass
+  patches.
+- `Villages_1024`: villages joined by roads among forests and hills, built
+  from the houses and cars of 20thCenturyTown, Arica_Harbor, Broville, city
+  and hiesville.
+
+Their modes were measured the same way (16 bots, 10 game minutes, two
+seeds): both play both capture the flags and king of the hill, and the
+mountain one territory control too.
+
 ## Browse the maps
 
 <https://ngspades.github.io/maps/> is a page over this repository: every map,

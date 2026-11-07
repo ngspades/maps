@@ -1,0 +1,12 @@
+[map]
+name = "Mountain_River_1024"
+modes = ["ngctf", "ctf", "koth", "tc"]
+author = "nothings' aosmap generator (forest_river, no trees), Shoot and Destroy"
+fog_color = [128, 200, 255]
+map_size = [1024, 1024, 64]
+capture_limit = 10
+
+# the generator's own blue (west) and green (east) start regions
+[spawnpoints]
+team1 = { start = [32, 256, 0], end = [256, 768, 0] }
+team2 = { start = [768, 256, 0], end = [992, 768, 0] }

@@ -36604,5 +36604,40 @@
    "preview.png"
   ],
   "modes": []
+ },
+ {
+  "id": null,
+  "name": "Mountain River 1024",
+  "folder": "Mountain_River_1024",
+  "author": "Shoot and Destroy (nothings' aosmap generator)",
+  "source": "https://github.com/ngspades/maps",
+  "files": [
+   "Mountain_River_1024.ngmap",
+   "Mountain_River_1024.toml",
+   "preview.png"
+  ],
+  "modes": [
+   "ngctf",
+   "ctf",
+   "koth",
+   "tc"
+  ]
+ },
+ {
+  "id": null,
+  "name": "Villages 1024",
+  "folder": "Villages_1024",
+  "author": "Shoot and Destroy (town generator)",
+  "source": "https://github.com/ngspades/maps",
+  "files": [
+   "Villages_1024.ngmap",
+   "Villages_1024.toml",
+   "preview.png"
+  ],
+  "modes": [
+   "ngctf",
+   "ctf",
+   "koth"
+  ]
  }
 ]

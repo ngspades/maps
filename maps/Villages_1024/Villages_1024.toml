@@ -1,0 +1,11 @@
+[map]
+name = "Villages_1024"
+modes = ["ngctf", "ctf", "koth"]
+author = "Shoot and Destroy's town generator, buildings and cars from 20thCenturyTown, Arica_Harbor, Broville, city, hiesville"
+fog_color = [150, 190, 230]
+map_size = [1024, 1024, 64]
+capture_limit = 10
+
+[spawnpoints]
+team1 = { start = [861, 304, 0], end = [885, 328, 0] }
+team2 = { start = [239, 755, 0], end = [263, 779, 0] }
