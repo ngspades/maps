@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES maps" width="100%"></p>
+
 # Shoot and Destroy maps
 
 Ace of Spades maps from the community's archives, ready for a Shoot and
