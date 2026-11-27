@@ -1,7 +1,7 @@
 <<<<<<< Updated upstream
 <p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES maps" width="100%"></p>
 
-# Shoot and Destroy maps
+# Nexgen Spades maps
 =======
 # ngspades maps
 >>>>>>> Stashed changes
