@@ -1,7 +1,7 @@
 <<<<<<< Updated upstream
 <p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES maps" width="100%"></p>
 
-# Nextgen Spades maps
+# Nexgen Spades maps
 =======
 # ngspades maps
 >>>>>>> Stashed changes

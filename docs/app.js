@@ -1,4 +1,4 @@
-/* Map browser for the Nextgen Spades maps repository.
+/* Map browser for the Nexgen Spades maps repository.
    One index (data.json) is read once; everything after that is local: the
    filters, the search, the sorting and the map sheet. No dependencies. */
 
