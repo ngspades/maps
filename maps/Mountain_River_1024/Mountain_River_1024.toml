@@ -1,7 +1,7 @@
 [map]
 name = "Mountain_River_1024"
 modes = ["ngctf", "ctf", "koth", "tc"]
-author = "nothings' aosmap generator (forest_river, no trees), Shoot and Destroy"
+author = "nothings' aosmap generator (forest_river, no trees), ngspades"
 fog_color = [128, 200, 255]
 map_size = [1024, 1024, 64]
 capture_limit = 10
