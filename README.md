@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 <p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES maps" width="100%"></p>
 
 # Shoot and Destroy maps
+=======
+# ngspades maps
+>>>>>>> Stashed changes
 
 Ace of Spades maps from the community's archives, ready for a Shoot and
 Destroy server: every map listed on [aos.party](https://aos.party), plus the
@@ -12,7 +16,7 @@ that are not already here.
 ```
 maps/<Name>/<Name>.ngmap   the map, as ngmap at quality 100 (below)
 maps/<Name>/<Name>.txt     the original pyspades metadata, untouched (when the map has one)
-maps/<Name>/<Name>.toml    the Shoot and Destroy settings, generated from the .txt
+maps/<Name>/<Name>.toml    the ngspades settings, generated from the .txt
 maps/<Name>/preview.png    an isometric picture of the map
 maps/<Name>/top.webp       a top-down picture of the map, 512 pixels a side
 maps.json                  the index: name, folder, author, source page, files, modes
@@ -37,7 +41,7 @@ its name or colours, so the same map never comes twice.
 
 ## The 1024 x 1024 maps
 
-Most maps are 512 x 512, the size Ace of Spades always had. Shoot and Destroy
+Most maps are 512 x 512, the size Ace of Spades always had. ngspades
 also plays maps twice as wide (protocol 1.0 only: a 0.75 server cannot send
 one), and two of ours are here:
 
