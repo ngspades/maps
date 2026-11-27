@@ -1,13 +1,9 @@
-<<<<<<< Updated upstream
 <p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES maps" width="100%"></p>
 
 # Nexgen Spades maps
-=======
-# ngspades maps
->>>>>>> Stashed changes
 
-Ace of Spades maps from the community's archives, ready for a Shoot and
-Destroy server: every map listed on [aos.party](https://aos.party), plus the
+Ace of Spades maps from the community's archives, ready for a Nexgen
+Spades server: every map listed on [aos.party](https://aos.party), plus the
 maps of the [hosting.dgd.cx map search](https://hosting.dgd.cx/map-search)
 that are not already here.
 
