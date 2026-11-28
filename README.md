@@ -128,6 +128,12 @@ from the map's own `.txt`, as its author made it. A Babel map is tagged
 `babel` only, a Counter-Strike map (`cs_*`, `de_*`) `arena` only, and a map
 named for zombies is always tagged `zombie`.
 
+## Community
+
+Join the official **Nexgen Spades** Discord to play, get help and share what you build: <https://discord.gg/vfknrFQr2>
+
+Where it all began: the **Build and Shoot** Discord, home of the Ace of Spades community: <https://discord.gg/Cbda3DtJR>
+
 ## Credits
 
 Each map belongs to its author, named in its `.txt` (`author = ...`) and in
